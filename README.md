@@ -1,2 +1,2 @@
-# wallpapers
+# Antergos Wallpapers
 Antergos Wallpapers
