@@ -3,10 +3,10 @@
 
 
 
-[antergos-wallpaper.png](antergos-wallpaper.png)
-[83II_by_bo0xVn.jpg](83II_by_bo0xVn.jpg)
-[as_time_goes_by____by_moskanon-d5dgvt8.jpg](as_time_goes_by____by_moskanon-d5dgvt8.jpg)
-[autumn_hike___plant_details_by_aoiban-d5l7y83.jpg](autumn_hike___plant_details_by_aoiban-d5l7y83.jpg)
+[antergos-wallpaper.png](https://raw.githubusercontent.com/Antergos/wallpapers/master/antergos-wallpaper.png)
+[83II_by_bo0xVn.jpg](https://raw.githubusercontent.com/Antergos/wallpapers/master/83II_by_bo0xVn.jpg)
+[as_time_goes_by____by_moskanon-d5dgvt8.jpg](https://raw.githubusercontent.com/Antergos/wallpapers/master/as_time_goes_by____by_moskanon-d5dgvt8.jpg)
+[autumn_hike___plant_details_by_aoiban-d5l7y83.jpg](https://raw.githubusercontent.com/Antergos/wallpapers/master/autumn_hike___plant_details_by_aoiban-d5l7y83.jpg)
 [blossom_by_snipes2.jpg](blossom_by_snipes2.jpg)
 [c65sk3mshowxrtlljbvh.jpg](c65sk3mshowxrtlljbvh.jpg)
 [early_morning_by_kylekc.jpg](early_morning_by_kylekc.jpg)
